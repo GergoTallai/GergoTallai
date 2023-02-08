@@ -1,4 +1,8 @@
-Currently learning:
-- Python
+Interest:
 - JavaScript
-- React
+- TypeScript
+- Angular
+- HTML
+- CSS
+- Python
+- C#
